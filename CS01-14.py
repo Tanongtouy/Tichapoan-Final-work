@@ -1,3 +1,3 @@
-Name = ["ทิชาพร","บุญด่านตก","44659"]
-x = Name[0]
+Cars=["Toyata","Isuzu","Bugatti"]
+x=Cars[0]
 print(x)
